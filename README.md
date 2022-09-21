@@ -1,7 +1,9 @@
 ![](https://github.com/thisishusseinali/pneumonia-test/blob/main/header.png)
 ## Data Science Prject Life Cycle :
 #
-- [](https://github.com/thisishusseinali/pneumonia-test/blob/main/LifeCycleofData%20ScienceProject.jpg)
+
+[](https://github.com/thisishusseinali/pneumonia-test/blob/main/LifeCycleofData%20ScienceProject.jpg)
+
 #
 ## about the pneumonia
 #
