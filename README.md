@@ -1,14 +1,9 @@
 ![](https://github.com/thisishusseinali/pneumonia-test/blob/main/header.png)
 ## Data Science Prject Life Cycle :
 #
-
-[](https://github.com/thisishusseinali/pneumonia-test/blob/main/LifeCycleofData%20ScienceProject.jpg)
-
-#
-## about the pneumonia
-#
-### Pneumonia : 
-- is an infection that inflames the alveoli in one or both lungs. The alveoli may fill with pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. In general, pneumonia is caused by a virus, a bacteria or fungi.
+![](https://github.com/thisishusseinali/pneumonia-test/blob/main/LifeCycleofData%20ScienceProject.jpg)
+### about the pneumonia
+- Pneumonia is an infection that inflames the alveoli in one or both lungs. The alveoli may fill with pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. In general, pneumonia is caused by a virus, a bacteria or fungi.
 - Pneumonia can range in seriousness from mild to life-threatening. It is most serious for infants and young children, people older than age 65, and people with health problems or weakened immune systems.
 - Chest X-Ray images can be useful in the diagnosis of Pneumonia. A doctor can diagnose it, know the extent and the location of the infection by looking at an X-Ray image withing a few seconds or minutes.
 - The aim of this work is to automatize the detection of Pneumonia by using Deep Learning algorithms and only X-Ray images. Different techniques will be used in order to achieve the best possible results. If this task can be sucessfully achieved by a machine, then it will help doctors to save a lot of time that could be used in other actions.
@@ -43,4 +38,15 @@ In this repository you can find two things:
 - You can see NoteBook [here](https://www.kaggle.com/code/thisishusseinali/pneumonia-detection?scriptVersionId=106183654)
 - **Huggingface APP**: A simple *Streamlit* App where you can upload a picture (X-Ray Chest image) and predict if it suffers from pneumonia or not. 
 - You can try the app [here](https://huggingface.co/spaces/thisishusseinali/pneumonia-test)
+
+## 🌐 follow me on Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisishusseinali)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisishusseinali)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisishusseinali)&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisishusseinali)&nbsp;
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisishusseinali)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisishuseinali)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCvhs9KPjw9OxOup05cGoZmA)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thisishusseinali)&nbsp;
+ 
 ![](https://github.com/thisishusseinali/pneumonia-test/blob/main/footer.png)
