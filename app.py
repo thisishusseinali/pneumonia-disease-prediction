@@ -20,7 +20,6 @@ st.markdown(unsafe_allow_html=True, body="<h4>Welcome to pneumonia detection app
                                          "<p>The model used is a Convolutional Neural Network (CNN) and in this "
                                          "moment has a test accuracy of "
                                          "<strong>90.7%.</strong></p>")
-
 st.markdown("First, let's load an X-Ray Chest image.")
 
 imageLocation = st.empty()
@@ -48,5 +47,4 @@ if img is not None:
         st.markdown(unsafe_allow_html=True, body="<span style='color:green; font-size: 50px'><strong><h3>Healthy! :smile: </h3></strong></span>")
 
     st.text(f"*Probability of pneumonia is {round(prob[0][0] * 100, 2)}%")
-
 st.image('footer.png')
